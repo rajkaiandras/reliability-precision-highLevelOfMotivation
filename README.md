@@ -1,4 +1,4 @@
-# About Me
+# Congratulation, You have found an easter egg from LinkedIn about Me
 
 Hi, I'm András, a highly motivated frontend developer.
 
